@@ -15,13 +15,7 @@ export default class Home {
         title: "More",
         subtitle: "Mais detalhes sobre os componentes",
         to: "/More",
-      },
-      {
-        key:3,
-        title: "Serverless",
-        subtitle: "Demonstra o uso do serverless",
-        to: "/Serverless",
-      },
+      }
     ]
   };
   navigateTo = (item) => {
