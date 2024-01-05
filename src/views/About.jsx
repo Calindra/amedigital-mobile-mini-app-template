@@ -18,7 +18,9 @@
       />
     </View>
     <Text textAlign='center'>Este mini-app foi desenvolvido utilizando as versões:</Text>
-    <Text textAlign='center'>ame-miniapp-components: <Text style={{ fontWeight: 'bold' }}>3.0.0-beta.15</Text></Text>
-    <Text textAlign='center'>ame-super-app-client: <Text style={{ fontWeight: 'bold' }}>2.27.0</Text></Text>
+    <Text textAlign='center'>ame-miniapp-components: <Text style={{ fontWeight: 'bold' }}>###COMPONENTS_LIBRARY_VERSION_HIGHLIGHTER###</Text></Text>
+    <Text textAlign='center'>ame-super-app-client: <Text style={{ fontWeight: 'bold' }}>###SUPER_APP_CLIENT_VERSION_HIGHLIGHTER###</Text></Text>
+    <Text textAlign='center'>ame-mini-app-sdk-support: <Text style={{ fontWeight: 'bold' }}>2.X.X</Text></Text>
+
   </View>
 </Window>
