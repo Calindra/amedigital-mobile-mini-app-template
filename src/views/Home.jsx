@@ -13,7 +13,7 @@
    
     <Image
       style={{ height: 200 }}
-      src={require('../assets/images/icon_ame.svg')}
+      src={src('../assets/images/icon_ame.svg')}
     />
 <View marginBottom="medium">
     <Text textAlign="center">[b]MiniApp Ametista 3.0.0[/b]</Text>
