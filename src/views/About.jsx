@@ -14,7 +14,7 @@
     <View justify='center'>
       <Image
         style={{ width: 200, height: 200 }}
-        src={src('../assets/images/icon_ame.svg')}
+        src={require('../assets/images/icon_ame.svg')}
       />
     </View>
     <Text textAlign='center'>Este miniapp foi desenvolvido utilizando as versões:</Text>
